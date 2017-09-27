@@ -1,0 +1,14 @@
+C:\Triangles\Triangles\Triangles\bin\Debug\Triangles.exe.config
+C:\Triangles\Triangles\Triangles\bin\Debug\Triangles.exe
+C:\Triangles\Triangles\Triangles\bin\Debug\Triangles.pdb
+C:\Triangles\Triangles\Triangles\obj\Debug\Triangles.csprojResolveAssemblyReference.cache
+C:\Triangles\Triangles\Triangles\obj\Debug\MainWindow.g.cs
+C:\Triangles\Triangles\Triangles\obj\Debug\App.g.cs
+C:\Triangles\Triangles\Triangles\obj\Debug\Triangles_MarkupCompile.cache
+C:\Triangles\Triangles\Triangles\obj\Debug\Triangles_MarkupCompile.lref
+C:\Triangles\Triangles\Triangles\obj\Debug\MainWindow.baml
+C:\Triangles\Triangles\Triangles\obj\Debug\Triangles.g.resources
+C:\Triangles\Triangles\Triangles\obj\Debug\Triangles.Properties.Resources.resources
+C:\Triangles\Triangles\Triangles\obj\Debug\Triangles.csproj.GenerateResource.Cache
+C:\Triangles\Triangles\Triangles\obj\Debug\Triangles.exe
+C:\Triangles\Triangles\Triangles\obj\Debug\Triangles.pdb
